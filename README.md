@@ -2,6 +2,11 @@
 씨발장애인 언어
 즉, sibal jangein language 입니다.
 
+# fibonacci.sjl
+``` sjl
+미친입출력 새끼 느영; 느앞; ㅗ 느뒤; ㅗ 느임시; 느횟수; ㅗㅗㅗㅗ 뒤져 루프 인실좆 앞 임시 ㅋ 영 꺼져 뒤 뒤 ㅋ 앞 꺼져 임시 앞 ㅋ 영 꺼져 임시 횟수 꺼져 ㅋ ㅗ 미쳤냐 횟수 또라이 끝 또라이 루프 뒤져 끝
+```
+
 ``` cmd
 py sjl_compiler.py fibonacci.sjl main.py
 ```
